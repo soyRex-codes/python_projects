@@ -2,7 +2,7 @@
 import qrcode
 
 #data to put in qrcode
-data = "https://www.linkedin.com/in/rajkumar-kushwaha-356907256/"
+data = "https://github.com/soyRex-codes"
 
 #creating qrcode
 qr = qrcode.QRCode(
