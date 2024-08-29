@@ -1,7 +1,5 @@
-#assignemnt08
 #Name: Rajkumar Kushwaha
 #Built a Complex calculator using built in complex
-#CSC130
 
 from tkinter import *
 # importing everything from tkinter module
