@@ -1,3 +1,4 @@
+#open both this file and testinput.txt files, copy path of testinput and feed it to terminal when asked by terminal, this file is for test case, you can use your own file path as necessary
 #The code is Python 3 code
 import re #re is regular expression moduee imported
 import sys #sys module
